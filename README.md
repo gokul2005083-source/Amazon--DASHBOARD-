@@ -1,31 +1,38 @@
-duration=4000
+<!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Amazon+Prime+Video+Analytics+Dashboard;Advanced+Power+BI+Business+Intelligence+Project;Data+Modeling+%7C+DAX+%7C+Visualization" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=00BFFF&center=true&vCenter=true&width=1000&lines=Amazon+Prime+Video+Content+Analytics;Enterprise+Level+Power+BI+Dashboard;Data+Modeling+%7C+DAX+%7C+Strategic+Insights" />
 </h1>
 
-<h1 align="center">Amazon Prime Video Content Analytics Dashboard</h1>
-<h3 align="center">Advanced Power BI Business Intelligence Project</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Power%20BI-Enterprise-yellow?style=for-the-badge&logo=powerbi" />
   <img src="https://img.shields.io/badge/DAX-Advanced-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-Professional-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-Professional-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Movies-80%25-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/TV%20Shows-20%25-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Time%20Range-1920--2021-orange?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=gokul2005083-source&label=Repository%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## Executive Summary
+## Executive Overview
 
-This advanced Power BI dashboard analyzes the Amazon Prime Video content library to uncover rating distribution, genre performance, country-wise show distribution, and release year growth patterns.
+This project delivers an enterprise-grade Power BI dashboard analyzing Amazon Prime Video's global content portfolio.  
 
-The project demonstrates end-to-end business intelligence development, transforming raw streaming data into strategic decision-support insights.
+The analysis focuses on genre distribution, ratings segmentation, regional availability, and long-term content expansion trends.  
+
+It simulates how streaming companies leverage analytics to drive content acquisition strategy and platform growth.
+
+---
+
+## Business Objectives
+
+- Identify dominant genres and content trends  
+- Analyze content distribution by country  
+- Understand rating segmentation patterns  
+- Track historical content growth trajectory  
+- Support strategic media investment decisions  
 
 ---
 
@@ -35,41 +42,44 @@ The project demonstrates end-to-end business intelligence development, transform
 
 ---
 
-## Key Metrics
+## Strategic Insights
 
-- Total Titles: 9,655  
-- Total Genres: 519  
-- Total Directors: 5,771  
-- Time Span: 1920 – 2021  
-
----
-
-## Analytical Insights
-
-- Rapid content expansion observed after 2000  
-- Drama dominates genre distribution  
-- Movies account for majority of total content  
-- Strong regional concentration in selected markets  
+- Accelerated content growth observed post-2000  
+- Movies represent majority share of platform library  
+- Genre concentration visible in Drama and Documentaries  
+- Mature rating categories dominate overall distribution  
+- Geographic clustering highlights key production markets  
 
 ---
 
-## Tech Stack
+## Technical Architecture
 
-- Power BI  
-- DAX  
-- Excel / CSV  
-- Data Modeling  
+Data Source → Data Cleaning → Data Modeling → DAX Calculations → KPI Development → Interactive Visualization → Insight Generation  
 
 ---
 
-## Skills Demonstrated
+## Technology Stack
 
-Data Cleaning • KPI Design • DAX Measures • Geospatial Visualization • Time-Series Analysis • Business Intelligence Reporting
+Power BI  
+DAX  
+Excel / CSV  
+Data Modeling  
+
+---
+
+## Competencies Demonstrated
+
+Business Intelligence  
+Advanced DAX  
+Time-Series Analysis  
+Geospatial Visualization  
+KPI Framework Design  
+Data Storytelling  
 
 ---
 
 ## Author
 
 Gokul Raj  
-Data Analyst | Power BI | SQL | Python | Excel
+Data Analyst | Power BI | SQL | Python | Excel  
 
