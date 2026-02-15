@@ -1,98 +1,65 @@
-
 <h1 align="center">Amazon Prime Video Content Analytics Dashboard</h1>
 <h3 align="center">Advanced Power BI Business Intelligence Project</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/DAX-Advanced-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-Professional-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Movies-80%25-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/TV%20Shows-20%25-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Time%20Range-1920--2021-orange?style=flat-square" />
+</p>
 
 ---
 
 ## Executive Summary
 
-This project presents an advanced Power BI dashboard analyzing the Amazon Prime Video content library. The analysis focuses on ratings distribution, genre performance, country-wise content availability, and release year growth trends.
+This advanced Power BI dashboard analyzes the Amazon Prime Video content library to uncover rating distribution, genre performance, country-wise show distribution, and release year growth patterns.
 
-The objective is to transform large-scale streaming content data into strategic insights for content acquisition and platform growth decisions.
-
----
-
-## Business Problem
-
-Streaming platforms require data-driven insights to:
-
-- Optimize content acquisition strategy
-- Identify high-performing genres
-- Analyze regional content distribution
-- Understand long-term release trends
-
-This dashboard provides analytical visibility into these dimensions.
+The project demonstrates end-to-end business intelligence development, transforming raw streaming data into strategic decision-support insights.
 
 ---
 
-## Key Metrics Analyzed
+## Dashboard Preview
 
-- Total Titles: 9,655
-- Total Ratings Categories: 25
-- Total Genres: 519
-- Total Directors: 5,771
-- Content Timeline: 1920 – 2021
+![Dashboard Preview](DASHBOARD.png)
 
 ---
 
-## Dashboard Capabilities
+## Key Metrics
 
-- Rating distribution analysis
-- Genre-wise content volume comparison
-- Country-level show distribution (map visualization)
-- Movie vs TV Show segmentation
-- Year-wise content growth trend
-- Dynamic filtering and drill-down insights
+- Total Titles: 9,655  
+- Total Genres: 519  
+- Total Directors: 5,771  
+- Time Span: 1920 – 2021  
 
 ---
 
-## Advanced Analytical Insights
+## Analytical Insights
 
-- Majority of content falls under mature rating categories.
-- Drama dominates overall genre distribution.
-- Rapid content expansion observed post-2000.
-- Movies account for approximately 80% of total content.
-- Significant regional concentration in selected countries.
+- Rapid content expansion observed after 2000  
+- Drama dominates genre distribution  
+- Movies account for majority of total content  
+- Strong regional concentration in selected markets  
 
 ---
 
-## Technical Stack
+## Tech Stack
 
-- Power BI (Data Modeling, Dashboard Development)
-- DAX (Calculated Measures & KPIs)
-- Excel / CSV (Data Source)
-- Data Cleaning & Transformation
+- Power BI  
+- DAX  
+- Excel / CSV  
+- Data Modeling  
 
 ---
 
 ## Skills Demonstrated
 
-Data Modeling  
-DAX Calculations  
-KPI Design  
-Geospatial Visualization  
-Time-Series Analysis  
-Business Intelligence Reporting  
-Interactive Dashboard Design  
-
----
-
-## Business Impact
-
-This project simulates how streaming companies can leverage analytics to:
-
-- Improve content portfolio planning
-- Identify emerging genre demand
-- Optimize global content strategy
-- Monitor platform expansion trends
-
----
-
-## Project Files
-
-- Dataset (CSV/Excel)
-- Power BI File (.pbix)
-- Dashboard Screenshot
+Data Cleaning • KPI Design • DAX Measures • Geospatial Visualization • Time-Series Analysis • Business Intelligence Reporting
 
 ---
 
@@ -100,3 +67,4 @@ This project simulates how streaming companies can leverage analytics to:
 
 Gokul Raj  
 Data Analyst | Power BI | SQL | Python | Excel
+
