@@ -1,7 +1,7 @@
+duration=4000
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Amazon+Prime+Video+Analytics+Dashboard;Advanced+Power+BI+Business+Intelligence+Project;Data+Modeling+%7C+DAX+%7C+Visualization" />
 </h1>
-duration=4000
 
 <h1 align="center">Amazon Prime Video Content Analytics Dashboard</h1>
 <h3 align="center">Advanced Power BI Business Intelligence Project</h3>
