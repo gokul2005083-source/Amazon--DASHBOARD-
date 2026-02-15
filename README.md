@@ -26,7 +26,7 @@ The project demonstrates end-to-end business intelligence development, transform
 
 ## Dashboard Preview
 
-![Dashboard Preview](DASHBOARD.png)
+![Dashboard Preview](DASHBOAD.png)
 
 ---
 
