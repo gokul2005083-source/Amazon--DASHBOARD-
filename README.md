@@ -18,7 +18,7 @@
 
 ## Executive Overview
 
-This project delivers an enterprise-grade Power BI dashboard analyzing Amazon Prime Video's global content portfolio.  
+This project delivers an enterprise-grade analyzing Amazon Prime Video's global content portfolio.  
 
 The analysis focuses on genre distribution, ratings segmentation, regional availability, and long-term content expansion trends.  
 
